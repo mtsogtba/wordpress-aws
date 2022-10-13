@@ -2,7 +2,7 @@
     "Parameters": {
         "KeyName": "firstkey",
         "InstanceType": "t2.small",
-        "SSHLocation": "10.0.0.0/32",
+        "SSHLocation": "0.0.0.0/0",
         "DBName": "wordpressdb",
         "DBUser": "localdbuser",
         "DBPassword": "dummypassword",
